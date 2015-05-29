@@ -8,9 +8,11 @@ Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+Blackout Congress' IP addresses from visiting your site, and redirect them to the blackout protest page.
+
 == Description ==
 
-The protest begins Sunday May 31st at Midnight. W
+The protest begins Sunday May 31st at Midnight. Will you be ready?
 
 Self-hosted WordPress site owners who want to participate in protesting the renewal of the Patriot Act can install and activate this plugin to enqueue the Blackout Congress detection script.
 
